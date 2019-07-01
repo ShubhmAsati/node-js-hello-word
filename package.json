@@ -1,0 +1,23 @@
+{
+  "name": "js-hello-word",
+  "version": "1.0.0",
+  "description": "a simple nodejs app running on port 8080",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShubhmAsati/node-js-hello-word.git"
+  },
+  "author": "shubham asati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShubhmAsati/node-js-hello-word/issues"
+  },
+  "homepage": "https://github.com/ShubhmAsati/node-js-hello-word#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
